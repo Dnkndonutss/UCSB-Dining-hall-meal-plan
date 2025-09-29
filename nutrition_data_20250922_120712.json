@@ -1,0 +1,3566 @@
+[
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Breakfast",
+        "food": "Oatmeal (vgn)",
+        "calories": "90",
+        "fats": "2g",
+        "carbs": "16g",
+        "protein": "3g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Breakfast",
+        "food": "Cream of Wheat (vgn)",
+        "calories": "100",
+        "fats": "2.5g",
+        "carbs": "14g",
+        "protein": "5g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Breakfast",
+        "food": "Apple Crepe w/Caramel Sauce",
+        "calories": "200",
+        "fats": "12g",
+        "carbs": "21g",
+        "protein": "4g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Breakfast",
+        "food": "Chicken Sausage Patty",
+        "calories": "80",
+        "fats": "6g",
+        "carbs": "0g",
+        "protein": "7g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Breakfast",
+        "food": "Diced Potatoes (vgn)",
+        "calories": "120",
+        "fats": "2g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Breakfast",
+        "food": "Cage Free Eggs Scrambled (v)",
+        "calories": "200",
+        "fats": "14g",
+        "carbs": "0g",
+        "protein": "15g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Breakfast",
+        "food": "Cage Free Scrambled Egg Whites (v)",
+        "calories": "50",
+        "fats": "0g",
+        "carbs": "< 1g",
+        "protein": "12g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Breakfast",
+        "food": "Make Your Own Waffle (v)",
+        "calories": "120",
+        "fats": "2g",
+        "carbs": "24g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Breakfast",
+        "food": "Assorted Bagels & Condiments",
+        "calories": "260",
+        "fats": "4g",
+        "carbs": "48g",
+        "protein": "10g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Breakfast",
+        "food": "Whole Wheat Banana Bread (v)",
+        "calories": "190",
+        "fats": "7g",
+        "carbs": "29g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Ham",
+        "calories": "35",
+        "fats": "1g",
+        "carbs": "1g",
+        "protein": "5g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Turkey",
+        "calories": "30",
+        "fats": "0.5g",
+        "carbs": "1g",
+        "protein": "6g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Jack Cheese (v)",
+        "calories": "50",
+        "fats": "4.5g",
+        "carbs": "0g",
+        "protein": "3g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Smoked Gouda",
+        "calories": "90",
+        "fats": "7g",
+        "carbs": "< 1g",
+        "protein": "6g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Sticky Rice (vgn)",
+        "calories": "70",
+        "fats": "0g",
+        "carbs": "15g",
+        "protein": "1g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Vietnamese Vermicelli Pork",
+        "calories": "430",
+        "fats": "18g",
+        "carbs": "49g",
+        "protein": "18g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Vegetable Stir Fry (vgn)",
+        "calories": "70",
+        "fats": "4g",
+        "carbs": "8g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Chicken Enchilada",
+        "calories": "350",
+        "fats": "19g",
+        "carbs": "19g",
+        "protein": "24g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Mixed Vegetables (vgn)",
+        "calories": "80",
+        "fats": "0g",
+        "carbs": "18g",
+        "protein": "4g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Refried Beans (vgn)",
+        "calories": "270",
+        "fats": "1g",
+        "carbs": "49g",
+        "protein": "17g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Mexican Rice (vgn)",
+        "calories": "130",
+        "fats": "4g",
+        "carbs": "22g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Greek Calamari Scallop Salad",
+        "calories": "160",
+        "fats": "4g",
+        "carbs": "21g",
+        "protein": "10g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Coleslaw w/ Vinaigrette Dressing (vgn)",
+        "calories": "90",
+        "fats": "7g",
+        "carbs": "7g",
+        "protein": "1g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Smoked Barbeque Chicken Pizza",
+        "calories": "290",
+        "fats": "10g",
+        "carbs": "32g",
+        "protein": "16g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Quattro Formaggio Pizza on Wheat (v)",
+        "calories": "260",
+        "fats": "11g",
+        "carbs": "26g",
+        "protein": "12g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Spinach Lentil Soup (vgn)",
+        "calories": "80",
+        "fats": "0.5g",
+        "carbs": "15g",
+        "protein": "5g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Charburger",
+        "calories": "360",
+        "fats": "15g",
+        "carbs": "27g",
+        "protein": "24g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Gardenburger (v)",
+        "calories": "320",
+        "fats": "9g",
+        "carbs": "43g",
+        "protein": "23g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Reuben Sandwich",
+        "calories": "250",
+        "fats": "14g",
+        "carbs": "18g",
+        "protein": "16g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Krinkle Cut Fries (vgn)",
+        "calories": "250",
+        "fats": "16g",
+        "carbs": "25g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Quinoa (vgn)",
+        "calories": "90",
+        "fats": "1.5g",
+        "carbs": "15g",
+        "protein": "3g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Garlic Roll (v)",
+        "calories": "160",
+        "fats": "4g",
+        "carbs": "25g",
+        "protein": "5g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Chocolate Cupcake w/Choc Icing (vgn)",
+        "calories": "390",
+        "fats": "13g",
+        "carbs": "68g",
+        "protein": "3g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Lunch",
+        "food": "Butterscotch Pecan Bar (w/nuts) (v)",
+        "calories": "160",
+        "fats": "8g",
+        "carbs": "21g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Tortilla Chips and Salsa (vgn)",
+        "calories": "260",
+        "fats": "4.5g",
+        "carbs": "49g",
+        "protein": "7g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Hummus (vgn)",
+        "calories": "100",
+        "fats": "7g",
+        "carbs": "7g",
+        "protein": "3g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Pita Chips (v)",
+        "calories": "130",
+        "fats": "0g",
+        "carbs": "26g",
+        "protein": "5g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Brown Rice (vgn)",
+        "calories": "80",
+        "fats": "0.5g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Teriyaki Chicken Stir Fry",
+        "calories": "190",
+        "fats": "8g",
+        "carbs": "12g",
+        "protein": "15g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Vegetable Stir Fry (vgn)",
+        "calories": "70",
+        "fats": "4g",
+        "carbs": "8g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Traditional Teriyaki Sauce (vgn)",
+        "calories": "40",
+        "fats": "NA",
+        "carbs": "8g",
+        "protein": "NA"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Hearty Vegetable Soup (vgn)",
+        "calories": "60",
+        "fats": "0g",
+        "carbs": "13g",
+        "protein": "3g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Roast Beef",
+        "calories": "210",
+        "fats": "10g",
+        "carbs": "3g",
+        "protein": "25g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Steamed Crookneck Squash (vgn)",
+        "calories": "25",
+        "fats": "0.5g",
+        "carbs": "5g",
+        "protein": "1g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Fresh Cauliflower (vgn)",
+        "calories": "25",
+        "fats": "0.5g",
+        "carbs": "5g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Oven Roasted Red Potatoes (vgn)",
+        "calories": "150",
+        "fats": "8g",
+        "carbs": "20g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Coleslaw w/ Vinaigrette Dressing (vgn)",
+        "calories": "90",
+        "fats": "7g",
+        "carbs": "7g",
+        "protein": "1g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Whole Wheat Spaghetti (vgn)",
+        "calories": "130",
+        "fats": "1g",
+        "carbs": "26g",
+        "protein": "5g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Meat Sauce",
+        "calories": "70",
+        "fats": "4g",
+        "carbs": "4g",
+        "protein": "5g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Spirals with Marinara Sauce (vgn)",
+        "calories": "160",
+        "fats": "2.5g",
+        "carbs": "30g",
+        "protein": "5g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Pinto Beans (vgn)",
+        "calories": "210",
+        "fats": "1g",
+        "carbs": "38g",
+        "protein": "13g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Basmati Rice (vgn)",
+        "calories": "90",
+        "fats": "0g",
+        "carbs": "21g",
+        "protein": "2g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Smoked Barbeque Chicken Pizza",
+        "calories": "290",
+        "fats": "10g",
+        "carbs": "32g",
+        "protein": "16g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Quattro Formaggio Pizza on Wheat (v)",
+        "calories": "260",
+        "fats": "11g",
+        "carbs": "26g",
+        "protein": "12g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "Onion Walnut Bread (w/nuts) (v)",
+        "calories": "160",
+        "fats": "6g",
+        "carbs": "22g",
+        "protein": "5g"
+    },
+    {
+        "date": "Monday, September 22, 2025",
+        "meal": "Dinner",
+        "food": "White Cake with Raspberry (v)",
+        "calories": "320",
+        "fats": "17g",
+        "carbs": "39g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Breakfast",
+        "food": "Oatmeal (vgn)",
+        "calories": "90",
+        "fats": "2g",
+        "carbs": "16g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Breakfast",
+        "food": "Thick French Toast (v)",
+        "calories": "100",
+        "fats": "3g",
+        "carbs": "13g",
+        "protein": "4g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Breakfast",
+        "food": "Bacon",
+        "calories": "120",
+        "fats": "9g",
+        "carbs": "0g",
+        "protein": "8g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Breakfast",
+        "food": "Hash Browns (vgn)",
+        "calories": "310",
+        "fats": "16g",
+        "carbs": "39g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Breakfast",
+        "food": "Cage Free Eggs Scrambled (v)",
+        "calories": "200",
+        "fats": "14g",
+        "carbs": "0g",
+        "protein": "15g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Breakfast",
+        "food": "Cage Free Scrambled Egg Whites (v)",
+        "calories": "50",
+        "fats": "0g",
+        "carbs": "< 1g",
+        "protein": "12g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Breakfast",
+        "food": "Fluffy Whole Wheat Waffles (v)",
+        "calories": "80",
+        "fats": "4g",
+        "carbs": "8g",
+        "protein": "2g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Breakfast",
+        "food": "Apple Bishop's Coffee Cake (v)",
+        "calories": "210",
+        "fats": "9g",
+        "carbs": "31g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Breakfast",
+        "food": "Lemon Poppyseed Muffin (v)",
+        "calories": "190",
+        "fats": "11g",
+        "carbs": "23g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Roast Beef",
+        "calories": "30",
+        "fats": "1g",
+        "carbs": "0g",
+        "protein": "5g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Turkey Pastrami",
+        "calories": "30",
+        "fats": "1.5g",
+        "carbs": "0g",
+        "protein": "4g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Provolone Cheese (v)",
+        "calories": "50",
+        "fats": "4g",
+        "carbs": "0g",
+        "protein": "4g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Cheddar Cheese (v)",
+        "calories": "90",
+        "fats": "7g",
+        "carbs": "0g",
+        "protein": "5g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Brown Rice (vgn)",
+        "calories": "80",
+        "fats": "0.5g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Pork Stir Fry with Green Beans",
+        "calories": "120",
+        "fats": "5g",
+        "carbs": "9g",
+        "protein": "11g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Lemon Ginger Tofu Stir Fry (vgn)",
+        "calories": "180",
+        "fats": "13g",
+        "carbs": "10g",
+        "protein": "1g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Fish Taco",
+        "calories": "140",
+        "fats": "2g",
+        "carbs": "14g",
+        "protein": "14g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Quesadilla (v)",
+        "calories": "370",
+        "fats": "25g",
+        "carbs": "17g",
+        "protein": "20g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Fresh Spinach with Garlic (vgn)",
+        "calories": "45",
+        "fats": "2g",
+        "carbs": "4g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Black Beans (vgn)",
+        "calories": "160",
+        "fats": "0.5g",
+        "carbs": "30g",
+        "protein": "10g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Fiesta Vegetable Salad (vgn)",
+        "calories": "100",
+        "fats": "9g",
+        "carbs": "5g",
+        "protein": "1g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Asian Noodle Salad (vgn)",
+        "calories": "90",
+        "fats": "4g",
+        "carbs": "17g",
+        "protein": "4g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Bacon Tomato Basil",
+        "calories": "280",
+        "fats": "12g",
+        "carbs": "29g",
+        "protein": "12g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Pineapple & Jalapeno Pizza on Wheat (v)",
+        "calories": "240",
+        "fats": "8g",
+        "carbs": "31g",
+        "protein": "10g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Chicken Noodle Soup",
+        "calories": "70",
+        "fats": "2g",
+        "carbs": "9g",
+        "protein": "5g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Char Burger",
+        "calories": "360",
+        "fats": "15g",
+        "carbs": "27g",
+        "protein": "24g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Black Bean Burger (vgn)",
+        "calories": "280",
+        "fats": "5g",
+        "carbs": "45g",
+        "protein": "17g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Krinkle Cut Fries (vgn)",
+        "calories": "250",
+        "fats": "16g",
+        "carbs": "25g",
+        "protein": "2g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Grilled Turkey & Swiss on Sourdough",
+        "calories": "260",
+        "fats": "9g",
+        "carbs": "23g",
+        "protein": "19g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Long Grain Rice (vgn)",
+        "calories": "80",
+        "fats": "0g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Panna Cotta",
+        "calories": "290",
+        "fats": "25g",
+        "carbs": "19g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Cheese Roll (v)",
+        "calories": "220",
+        "fats": "9g",
+        "carbs": "25g",
+        "protein": "10g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Lunch",
+        "food": "Chocolate Chip Cookie (v)",
+        "calories": "120",
+        "fats": "5g",
+        "carbs": "18g",
+        "protein": "1g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Greek Pasta Salad (v)",
+        "calories": "180",
+        "fats": "8g",
+        "carbs": "24g",
+        "protein": "6g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Spinach Salad with Honey Dressing (v)",
+        "calories": "60",
+        "fats": "2.5g",
+        "carbs": "10g",
+        "protein": "2g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Sticky Rice (vgn)",
+        "calories": "70",
+        "fats": "0g",
+        "carbs": "15g",
+        "protein": "1g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Chicken Coconut & Peanut Curry (w/nuts)",
+        "calories": "310",
+        "fats": "18g",
+        "carbs": "16g",
+        "protein": "20g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Tofu Vegetable Coconut Curry (vgn)",
+        "calories": "130",
+        "fats": "9g",
+        "carbs": "9g",
+        "protein": "1g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Cream of Broccoli Soup (v)",
+        "calories": "140",
+        "fats": "10g",
+        "carbs": "10g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Turkey Breast",
+        "calories": "150",
+        "fats": "2g",
+        "carbs": "7g",
+        "protein": "25g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Turkey Gravy",
+        "calories": "20",
+        "fats": "1.5g",
+        "carbs": "2g",
+        "protein": "NA"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Herb Stuffing",
+        "calories": "170",
+        "fats": "9g",
+        "carbs": "20g",
+        "protein": "4g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Peas (vgn)",
+        "calories": "80",
+        "fats": "NA",
+        "carbs": "14g",
+        "protein": "6g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Stir Fry Vegetables (vgn)",
+        "calories": "50",
+        "fats": "1g",
+        "carbs": "9g",
+        "protein": "2g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Garlic Red Mashed Potato (v)",
+        "calories": "200",
+        "fats": "11g",
+        "carbs": "22g",
+        "protein": "4g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Caesar Salad",
+        "calories": "100",
+        "fats": "9g",
+        "carbs": "5g",
+        "protein": "2g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Linguini Pasta (vgn)",
+        "calories": "140",
+        "fats": "1g",
+        "carbs": "26g",
+        "protein": "4g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "White Clam Sauce",
+        "calories": "100",
+        "fats": "7g",
+        "carbs": "5g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Pasta Primavera (v)",
+        "calories": "290",
+        "fats": "2.5g",
+        "carbs": "55g",
+        "protein": "11g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "White Navy Beans (vgn)",
+        "calories": "110",
+        "fats": "0g",
+        "carbs": "21g",
+        "protein": "7g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Long Grain Rice (vgn)",
+        "calories": "80",
+        "fats": "0g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Bacon Tomato Basil",
+        "calories": "280",
+        "fats": "12g",
+        "carbs": "29g",
+        "protein": "12g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Pineapple & Jalapeno Pizza on Wheat (v)",
+        "calories": "240",
+        "fats": "8g",
+        "carbs": "31g",
+        "protein": "10g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Rosemary Bread (v)",
+        "calories": "150",
+        "fats": "3g",
+        "carbs": "23g",
+        "protein": "5g"
+    },
+    {
+        "date": "Tuesday, September 23, 2025",
+        "meal": "Dinner",
+        "food": "Blueberry Crumb Pie (vgn)",
+        "calories": "350",
+        "fats": "12g",
+        "carbs": "57g",
+        "protein": "3g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Breakfast",
+        "food": "Oatmeal (vgn)",
+        "calories": "90",
+        "fats": "2g",
+        "carbs": "16g",
+        "protein": "3g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Breakfast",
+        "food": "Cream of Wheat (vgn)",
+        "calories": "100",
+        "fats": "2.5g",
+        "carbs": "14g",
+        "protein": "5g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Breakfast",
+        "food": "Whole Wheat Pancake (Housemade) (v)",
+        "calories": "150",
+        "fats": "7g",
+        "carbs": "15g",
+        "protein": "4g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Breakfast",
+        "food": "Chorizo and Eggs",
+        "calories": "140",
+        "fats": "8g",
+        "carbs": "1g",
+        "protein": "12g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Breakfast",
+        "food": "Fried Potatoes with Onions (vgn)",
+        "calories": "120",
+        "fats": "2g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Breakfast",
+        "food": "Cage Free Eggs Scrambled (v)",
+        "calories": "200",
+        "fats": "14g",
+        "carbs": "0g",
+        "protein": "15g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Breakfast",
+        "food": "Cage Free Scrambled Egg Whites (v)",
+        "calories": "50",
+        "fats": "0g",
+        "carbs": "< 1g",
+        "protein": "12g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Breakfast",
+        "food": "Make Your Own Waffle (v)",
+        "calories": "120",
+        "fats": "2g",
+        "carbs": "24g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Breakfast",
+        "food": "Danish Pastry (w/nuts) (v)",
+        "calories": "150",
+        "fats": "10g",
+        "carbs": "15g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Breakfast",
+        "food": "Strawberry White Chocolate Scone (v)",
+        "calories": "290",
+        "fats": "15g",
+        "carbs": "37g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Genoa Salami",
+        "calories": "30",
+        "fats": "2g",
+        "carbs": "0g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Turkey",
+        "calories": "30",
+        "fats": "0.5g",
+        "carbs": "1g",
+        "protein": "6g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Cheddar Cheese (v)",
+        "calories": "90",
+        "fats": "7g",
+        "carbs": "0g",
+        "protein": "5g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Swiss Cheese (v)",
+        "calories": "80",
+        "fats": "6g",
+        "carbs": "< 1g",
+        "protein": "7g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Valenciana Paella",
+        "calories": "220",
+        "fats": "4g",
+        "carbs": "34g",
+        "protein": "12g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Philly Cheese Steak Sandwich",
+        "calories": "240",
+        "fats": "9g",
+        "carbs": "24g",
+        "protein": "13g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Spanakopita Triangles (V)",
+        "calories": "320",
+        "fats": "20g",
+        "carbs": "26g",
+        "protein": "11g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Corn (vgn)",
+        "calories": "120",
+        "fats": "0.5g",
+        "carbs": "26g",
+        "protein": "4g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Indian Lentils w/Long Grain Rice (vgn)",
+        "calories": "110",
+        "fats": "2g",
+        "carbs": "21g",
+        "protein": "4g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Quinoa Salad w/Lemon Herb Veggies (vgn)",
+        "calories": "80",
+        "fats": "4.5g",
+        "carbs": "9g",
+        "protein": "1g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Salsa Salad (vgn)",
+        "calories": "25",
+        "fats": "0g",
+        "carbs": "5g",
+        "protein": "< 1g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Pepperoni Pizza",
+        "calories": "260",
+        "fats": "11g",
+        "carbs": "28g",
+        "protein": "11g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Tomato Basil Pizza on Wheat (v)",
+        "calories": "230",
+        "fats": "8g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Cream of Tomato Basil Soup (v)",
+        "calories": "70",
+        "fats": "4g",
+        "carbs": "7g",
+        "protein": "1g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Charburger",
+        "calories": "360",
+        "fats": "15g",
+        "carbs": "27g",
+        "protein": "24g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Grilled Vegetable Burger (vgn)",
+        "calories": "300",
+        "fats": "5g",
+        "carbs": "54g",
+        "protein": "9g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Grilled Swiss & Tomato on Wheat (v)",
+        "calories": "210",
+        "fats": "10g",
+        "carbs": "18g",
+        "protein": "13g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Shoestring Fries (vgn)",
+        "calories": "130",
+        "fats": "5g",
+        "carbs": "20g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Wild and Long Grain Rice Blend (vgn)",
+        "calories": "90",
+        "fats": "0g",
+        "carbs": "20g",
+        "protein": "3g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Black Beans (vgn)",
+        "calories": "160",
+        "fats": "0.5g",
+        "carbs": "30g",
+        "protein": "10g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Rice Krispie Treat",
+        "calories": "100",
+        "fats": "2.5g",
+        "carbs": "19g",
+        "protein": "< 1g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Coconut Poke Cake (v)",
+        "calories": "420",
+        "fats": "20g",
+        "carbs": "55g",
+        "protein": "6g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Lunch",
+        "food": "Whole Wheat Roll (vgn)",
+        "calories": "160",
+        "fats": "3g",
+        "carbs": "28g",
+        "protein": "4g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Tortilla Chips and Salsa (vgn)",
+        "calories": "260",
+        "fats": "4.5g",
+        "carbs": "49g",
+        "protein": "7g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Hummus (vgn)",
+        "calories": "100",
+        "fats": "7g",
+        "carbs": "7g",
+        "protein": "3g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Pita Chips (v)",
+        "calories": "130",
+        "fats": "0g",
+        "carbs": "26g",
+        "protein": "5g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Sticky Rice (vgn)",
+        "calories": "70",
+        "fats": "0g",
+        "carbs": "15g",
+        "protein": "1g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Beef Broccoli & Mushroom Stir Fry",
+        "calories": "130",
+        "fats": "4.5g",
+        "carbs": "7g",
+        "protein": "15g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Vegetable & Tofu Stir Fry (vgn)",
+        "calories": "210",
+        "fats": "13g",
+        "carbs": "15g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Minestrone Soup (vgn)",
+        "calories": "70",
+        "fats": "1g",
+        "carbs": "14g",
+        "protein": "3g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Mahi Mahi Veracruz",
+        "calories": "130",
+        "fats": "3g",
+        "carbs": "2g",
+        "protein": "21g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Steamed Zucchini (vgn)",
+        "calories": "20",
+        "fats": "0g",
+        "carbs": "3g",
+        "protein": "1g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Sauteed Fresh Carrots (vgn)",
+        "calories": "80",
+        "fats": "4.5g",
+        "carbs": "11g",
+        "protein": "1g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Oven Roasted Red Potatoes (vgn)",
+        "calories": "150",
+        "fats": "8g",
+        "carbs": "20g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Quinoa Salad w/Lemon Herb Veggies (vgn)",
+        "calories": "80",
+        "fats": "4.5g",
+        "carbs": "9g",
+        "protein": "1g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Fettuccine with Mustard Chicken Sauce",
+        "calories": "310",
+        "fats": "10g",
+        "carbs": "38g",
+        "protein": "17g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Wheat Penne Chard & Sun Dried Tomato(vgn",
+        "calories": "300",
+        "fats": "7g",
+        "carbs": "48g",
+        "protein": "12g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Pinto Beans (vgn)",
+        "calories": "210",
+        "fats": "1g",
+        "carbs": "38g",
+        "protein": "13g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Brown Rice (vgn)",
+        "calories": "80",
+        "fats": "0.5g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Pepperoni Pizza",
+        "calories": "260",
+        "fats": "11g",
+        "carbs": "28g",
+        "protein": "11g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Tomato Basil Pizza on Wheat (v)",
+        "calories": "230",
+        "fats": "8g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Parmesan Herb Bread (v)",
+        "calories": "140",
+        "fats": "3.5g",
+        "carbs": "22g",
+        "protein": "4g"
+    },
+    {
+        "date": "Wednesday, September 24, 2025",
+        "meal": "Dinner",
+        "food": "Very Chocolate Cake w/Chocolate Icing(v)",
+        "calories": "260",
+        "fats": "9g",
+        "carbs": "44g",
+        "protein": "3g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Breakfast",
+        "food": "Oatmeal (vgn)",
+        "calories": "90",
+        "fats": "2g",
+        "carbs": "16g",
+        "protein": "3g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Breakfast",
+        "food": "French Toast (v)",
+        "calories": "70",
+        "fats": "4.5g",
+        "carbs": "4g",
+        "protein": "4g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Breakfast",
+        "food": "Eggs Benedict",
+        "calories": "350",
+        "fats": "26g",
+        "carbs": "16g",
+        "protein": "13g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Breakfast",
+        "food": "Hash Browns (vgn)",
+        "calories": "310",
+        "fats": "16g",
+        "carbs": "39g",
+        "protein": "3g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Breakfast",
+        "food": "Cage Free Eggs Scrambled (v)",
+        "calories": "200",
+        "fats": "14g",
+        "carbs": "0g",
+        "protein": "15g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Breakfast",
+        "food": "Cage Free Scrambled Egg Whites (v)",
+        "calories": "50",
+        "fats": "0g",
+        "carbs": "< 1g",
+        "protein": "12g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Breakfast",
+        "food": "Make Your Own Waffle (v)",
+        "calories": "250",
+        "fats": "3.5g",
+        "carbs": "48g",
+        "protein": "5g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Breakfast",
+        "food": "Bacon Cheddar Scone",
+        "calories": "290",
+        "fats": "19g",
+        "carbs": "21g",
+        "protein": "9g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Breakfast",
+        "food": "Ginger Bread (v)",
+        "calories": "290",
+        "fats": "8g",
+        "carbs": "51g",
+        "protein": "4g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Ham",
+        "calories": "35",
+        "fats": "1g",
+        "carbs": "1g",
+        "protein": "5g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Egg Salad (v)",
+        "calories": "170",
+        "fats": "14g",
+        "carbs": "3g",
+        "protein": "9g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Provolone Cheese (v)",
+        "calories": "50",
+        "fats": "4g",
+        "carbs": "0g",
+        "protein": "4g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Smoked Mozzarella (v)",
+        "calories": "45",
+        "fats": "3.5g",
+        "carbs": "0g",
+        "protein": "3g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Brown Rice (vgn)",
+        "calories": "80",
+        "fats": "0.5g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Lemon Ginger Chicken",
+        "calories": "280",
+        "fats": "12g",
+        "carbs": "10g",
+        "protein": "30g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Vegetable Stir Fry (vgn)",
+        "calories": "70",
+        "fats": "4g",
+        "carbs": "8g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Thai Sweet Chili Sauce (vgn)",
+        "calories": "20",
+        "fats": "0.5g",
+        "carbs": "4g",
+        "protein": "< 1g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Pulled Pork Sandwich with Coleslaw",
+        "calories": "320",
+        "fats": "15g",
+        "carbs": "27g",
+        "protein": "20g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Swiss Chard with Fresh Garlic (vgn)",
+        "calories": "100",
+        "fats": "8g",
+        "carbs": "6g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "House Made Baked Beans",
+        "calories": "240",
+        "fats": "3.5g",
+        "carbs": "42g",
+        "protein": "14g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Potato Chip (vgn)",
+        "calories": "160",
+        "fats": "10g",
+        "carbs": "14g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Italian Chunk Salad (vgn)",
+        "calories": "120",
+        "fats": "11g",
+        "carbs": "6g",
+        "protein": "1g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Macaroni Salad (v)",
+        "calories": "290",
+        "fats": "19g",
+        "carbs": "24g",
+        "protein": "6g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Sausage Olive Pizza",
+        "calories": "270",
+        "fats": "11g",
+        "carbs": "29g",
+        "protein": "13g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Vegetable Pizza on Wheat (v)",
+        "calories": "230",
+        "fats": "8g",
+        "carbs": "27g",
+        "protein": "10g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Split Pea Soup (vgn)",
+        "calories": "100",
+        "fats": "0g",
+        "carbs": "17g",
+        "protein": "7g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Grass Fed Burger",
+        "calories": "400",
+        "fats": "18g",
+        "carbs": "35g",
+        "protein": "23g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Gardenburger (v)",
+        "calories": "320",
+        "fats": "9g",
+        "carbs": "43g",
+        "protein": "23g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Bean and Rice Burrito (vgn)",
+        "calories": "310",
+        "fats": "4.5g",
+        "carbs": "55g",
+        "protein": "8g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Shoestring Fries (vgn)",
+        "calories": "130",
+        "fats": "5g",
+        "carbs": "20g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Long Grain Rice (vgn)",
+        "calories": "80",
+        "fats": "0g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Almond Braids (w/nuts) (v)",
+        "calories": "180",
+        "fats": "4g",
+        "carbs": "30g",
+        "protein": "4g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Killer Brownie (v)",
+        "calories": "210",
+        "fats": "11g",
+        "carbs": "27g",
+        "protein": "3g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Lunch",
+        "food": "Pavlova Mango (v)",
+        "calories": "170",
+        "fats": "6g",
+        "carbs": "30g",
+        "protein": "1g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Couscous Salad with Tomato & Herb (v)",
+        "calories": "110",
+        "fats": "6g",
+        "carbs": "12g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Santa Fe Salad (vgn)",
+        "calories": "100",
+        "fats": "1.5g",
+        "carbs": "17g",
+        "protein": "4g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Sticky Rice (vgn)",
+        "calories": "70",
+        "fats": "0g",
+        "carbs": "15g",
+        "protein": "1g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Pork with Vegetable Stir Fry",
+        "calories": "150",
+        "fats": "9g",
+        "carbs": "8g",
+        "protein": "10g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Stir Fry Noodles with Vegetables (vgn)",
+        "calories": "140",
+        "fats": "1.5g",
+        "carbs": "38g",
+        "protein": "10g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Tortilla Chicken Soup",
+        "calories": "150",
+        "fats": "7g",
+        "carbs": "15g",
+        "protein": "7g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Rotisserie Chicken",
+        "calories": "360",
+        "fats": "14g",
+        "carbs": "< 1g",
+        "protein": "55g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Fresh Green Beans (vgn)",
+        "calories": "40",
+        "fats": "0g",
+        "carbs": "9g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Fresh Broccoli Spears (vgn)",
+        "calories": "50",
+        "fats": "0.5g",
+        "carbs": "10g",
+        "protein": "3g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Risotto with Fresh Vegetables (vgn)",
+        "calories": "120",
+        "fats": "0g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Potatoes Au Gratin (v)",
+        "calories": "280",
+        "fats": "15g",
+        "carbs": "29g",
+        "protein": "8g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Italian Chunk Salad (vgn)",
+        "calories": "120",
+        "fats": "11g",
+        "carbs": "6g",
+        "protein": "1g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Whole Wheat Penne Pasta (vgn)",
+        "calories": "100",
+        "fats": "0g",
+        "carbs": "22g",
+        "protein": "4g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Chicken Marinara Sauce",
+        "calories": "50",
+        "fats": "1.5g",
+        "carbs": "4g",
+        "protein": "6g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Linguini Pasta (vgn)",
+        "calories": "140",
+        "fats": "1g",
+        "carbs": "26g",
+        "protein": "4g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Fresh Basil Pesto (v)",
+        "calories": "150",
+        "fats": "16g",
+        "carbs": "1g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Black Beans (vgn)",
+        "calories": "160",
+        "fats": "0.5g",
+        "carbs": "30g",
+        "protein": "10g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Jasmine Rice (vgn)",
+        "calories": "100",
+        "fats": "0g",
+        "carbs": "22g",
+        "protein": "2g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Sausage Olive Pizza",
+        "calories": "270",
+        "fats": "11g",
+        "carbs": "29g",
+        "protein": "13g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Vegetable Pizza on Wheat (v)",
+        "calories": "230",
+        "fats": "8g",
+        "carbs": "27g",
+        "protein": "10g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Pumpkin Cheesecake Pie (v)",
+        "calories": "280",
+        "fats": "19g",
+        "carbs": "26g",
+        "protein": "3g"
+    },
+    {
+        "date": "Thursday, September 25, 2025",
+        "meal": "Dinner",
+        "food": "Bread Olive (vgn)",
+        "calories": "210",
+        "fats": "6g",
+        "carbs": "32g",
+        "protein": "6g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Breakfast",
+        "food": "Oatmeal (vgn)",
+        "calories": "90",
+        "fats": "2g",
+        "carbs": "16g",
+        "protein": "3g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Breakfast",
+        "food": "Arroz con Leche (v)",
+        "calories": "130",
+        "fats": "3g",
+        "carbs": "22g",
+        "protein": "4g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Breakfast",
+        "food": "Blueberry Pancake (v)",
+        "calories": "70",
+        "fats": "1.5g",
+        "carbs": "13g",
+        "protein": "1g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Breakfast",
+        "food": "Chicken Machaca with Scrambled Eggs",
+        "calories": "150",
+        "fats": "10g",
+        "carbs": "1g",
+        "protein": "13g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Breakfast",
+        "food": "Potatoes O'Brien (vgn)",
+        "calories": "160",
+        "fats": "8g",
+        "carbs": "22g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Breakfast",
+        "food": "Cage Free Eggs Scrambled (v)",
+        "calories": "200",
+        "fats": "14g",
+        "carbs": "0g",
+        "protein": "15g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Breakfast",
+        "food": "Cage Free Scrambled Egg Whites (v)",
+        "calories": "50",
+        "fats": "0g",
+        "carbs": "< 1g",
+        "protein": "12g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Breakfast",
+        "food": "Fluffy Whole Wheat Waffles (v)",
+        "calories": "80",
+        "fats": "4g",
+        "carbs": "8g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Breakfast",
+        "food": "Assorted Bagels & Condiments",
+        "calories": "260",
+        "fats": "4g",
+        "carbs": "48g",
+        "protein": "10g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Breakfast",
+        "food": "Banana Baked Oatmeal (v)",
+        "calories": "140",
+        "fats": "10g",
+        "carbs": "13g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Turkey Pastrami",
+        "calories": "30",
+        "fats": "1.5g",
+        "carbs": "0g",
+        "protein": "4g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Tuna Salad",
+        "calories": "200",
+        "fats": "10g",
+        "carbs": "1g",
+        "protein": "14g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Pepper Jack Cheese (v)",
+        "calories": "50",
+        "fats": "4.5g",
+        "carbs": "0g",
+        "protein": "3g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Sliced Swiss Cheese (v)",
+        "calories": "80",
+        "fats": "6g",
+        "carbs": "< 1g",
+        "protein": "7g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Rice with Cilantro & Onions (vgn)",
+        "calories": "180",
+        "fats": "6g",
+        "carbs": "28g",
+        "protein": "3g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Lamb Greek Gyro",
+        "calories": "330",
+        "fats": "16g",
+        "carbs": "25g",
+        "protein": "21g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Seitan Shawarma (vgn)",
+        "calories": "390",
+        "fats": "8g",
+        "carbs": "42g",
+        "protein": "36g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Tahini Sauce (v)",
+        "calories": "120",
+        "fats": "10g",
+        "carbs": "4g",
+        "protein": "4g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Cucumber Tzatziki (v)",
+        "calories": "50",
+        "fats": "4g",
+        "carbs": "3g",
+        "protein": "1g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Chamorro BBQ Chicken",
+        "calories": "180",
+        "fats": "6g",
+        "carbs": "11g",
+        "protein": "14g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Long Grain Rice (vgn)",
+        "calories": "80",
+        "fats": "0g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Roasted Root Vegetables (vgn)",
+        "calories": "110",
+        "fats": "5g",
+        "carbs": "16g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Pasta Pronto (vgn)",
+        "calories": "160",
+        "fats": "4.5g",
+        "carbs": "23g",
+        "protein": "5g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Chinese Chicken Salad (w/nuts)",
+        "calories": "160",
+        "fats": "9g",
+        "carbs": "6g",
+        "protein": "16g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Spicy Kale Caesar Salad (v)",
+        "calories": "160",
+        "fats": "11g",
+        "carbs": "13g",
+        "protein": "6g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Ham & Cheese Pizza",
+        "calories": "230",
+        "fats": "8g",
+        "carbs": "26g",
+        "protein": "13g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Three Cheese Pizza on Wheat (v)",
+        "calories": "250",
+        "fats": "9g",
+        "carbs": "29g",
+        "protein": "12g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Beef Noodle Soup",
+        "calories": "45",
+        "fats": "1g",
+        "carbs": "6g",
+        "protein": "3g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Charburger",
+        "calories": "360",
+        "fats": "15g",
+        "carbs": "27g",
+        "protein": "24g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Grilled Vegetable Burger (vgn)",
+        "calories": "300",
+        "fats": "5g",
+        "carbs": "54g",
+        "protein": "9g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Grilled Cheese on Sourdough (v)",
+        "calories": "220",
+        "fats": "9g",
+        "carbs": "21g",
+        "protein": "10g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Sweet Potato Fries (vgn)",
+        "calories": "180",
+        "fats": "9g",
+        "carbs": "23g",
+        "protein": "0g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "White Navy Beans (vgn)",
+        "calories": "110",
+        "fats": "0g",
+        "carbs": "21g",
+        "protein": "7g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Brown Rice (vgn)",
+        "calories": "80",
+        "fats": "0.5g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Rosemary Asiago Sourdough Bread (v)",
+        "calories": "160",
+        "fats": "3g",
+        "carbs": "26g",
+        "protein": "7g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Date and Cashew Bar (w/nuts) (vgn)",
+        "calories": "140",
+        "fats": "7g",
+        "carbs": "20g",
+        "protein": "3g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Lunch",
+        "food": "Confetti Cake (v)",
+        "calories": "220",
+        "fats": "6g",
+        "carbs": "41g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Tortilla Chips and Salsa (vgn)",
+        "calories": "260",
+        "fats": "4.5g",
+        "carbs": "49g",
+        "protein": "7g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Hummus (vgn)",
+        "calories": "100",
+        "fats": "7g",
+        "carbs": "7g",
+        "protein": "3g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Pita Chips (v)",
+        "calories": "130",
+        "fats": "0g",
+        "carbs": "26g",
+        "protein": "5g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Sticky Rice (vgn)",
+        "calories": "70",
+        "fats": "0g",
+        "carbs": "15g",
+        "protein": "1g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Cashew Chicken (w/nuts)",
+        "calories": "210",
+        "fats": "12g",
+        "carbs": "10g",
+        "protein": "15g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Vegetable Fried Rice (v)",
+        "calories": "280",
+        "fats": "14g",
+        "carbs": "34g",
+        "protein": "5g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "French Onion Soup with Croutons (v)",
+        "calories": "130",
+        "fats": "5g",
+        "carbs": "20g",
+        "protein": "4g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Roast Pork Loin",
+        "calories": "160",
+        "fats": "6g",
+        "carbs": "< 1g",
+        "protein": "25g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Apricot Chutney (vgn)",
+        "calories": "120",
+        "fats": "0g",
+        "carbs": "30g",
+        "protein": "0g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Broccoli Stuffed Tomato (v)",
+        "calories": "90",
+        "fats": "4g",
+        "carbs": "9g",
+        "protein": "4g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Peas with Onions (vgn)",
+        "calories": "90",
+        "fats": "0g",
+        "carbs": "16g",
+        "protein": "6g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Mashed Potatoes (v)",
+        "calories": "130",
+        "fats": "5g",
+        "carbs": "20g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Spicy Kale Caesar Salad (v)",
+        "calories": "160",
+        "fats": "11g",
+        "carbs": "13g",
+        "protein": "6g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Penne Pasta (vgn)",
+        "calories": "120",
+        "fats": "1g",
+        "carbs": "26g",
+        "protein": "4g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Marinara Sauce with Sausage",
+        "calories": "120",
+        "fats": "11g",
+        "carbs": "3g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Fusilli with Roasted Vegetables (v)",
+        "calories": "350",
+        "fats": "4.5g",
+        "carbs": "62g",
+        "protein": "14g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Pinto Beans (vgn)",
+        "calories": "210",
+        "fats": "1g",
+        "carbs": "38g",
+        "protein": "13g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Long Grain Rice (vgn)",
+        "calories": "80",
+        "fats": "0g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Ham & Cheese Pizza",
+        "calories": "230",
+        "fats": "8g",
+        "carbs": "26g",
+        "protein": "13g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Three Cheese Pizza on Wheat (v)",
+        "calories": "250",
+        "fats": "9g",
+        "carbs": "29g",
+        "protein": "12g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Marble Cake with Chocolate Frosting (v)",
+        "calories": "240",
+        "fats": "9g",
+        "carbs": "38g",
+        "protein": "3g"
+    },
+    {
+        "date": "Friday, September 26, 2025",
+        "meal": "Dinner",
+        "food": "Pandesal (v)",
+        "calories": "160",
+        "fats": "3g",
+        "carbs": "26g",
+        "protein": "5g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Sticky Rice (vgn)",
+        "calories": "70",
+        "fats": "0g",
+        "carbs": "15g",
+        "protein": "1g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Chicken Pad Thai with Peanut (w/nuts)",
+        "calories": "400",
+        "fats": "5g",
+        "carbs": "74g",
+        "protein": "15g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Vegetable Pad Thai (w/nuts) (vgn)",
+        "calories": "510",
+        "fats": "8g",
+        "carbs": "101g",
+        "protein": "8g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Potato Leek Soup (v)",
+        "calories": "110",
+        "fats": "7g",
+        "carbs": "11g",
+        "protein": "2g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Cilantro Lime Salmon",
+        "calories": "280",
+        "fats": "23g",
+        "carbs": "0g",
+        "protein": "21g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Carrots with Fresh Thyme (vgn)",
+        "calories": "45",
+        "fats": "0g",
+        "carbs": "11g",
+        "protein": "1g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Green Beans (vgn)",
+        "calories": "45",
+        "fats": "0g",
+        "carbs": "9g",
+        "protein": "2g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Rice Pilaf with Mushrooms (vgn)",
+        "calories": "120",
+        "fats": "0.5g",
+        "carbs": "26g",
+        "protein": "3g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Caesar Salad",
+        "calories": "100",
+        "fats": "9g",
+        "carbs": "5g",
+        "protein": "2g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Pasta Carbonara",
+        "calories": "330",
+        "fats": "16g",
+        "carbs": "36g",
+        "protein": "11g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Rotini Pasta (vgn)",
+        "calories": "140",
+        "fats": "1.5g",
+        "carbs": "27g",
+        "protein": "5g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Garden Vegetable Marinara (vgn)",
+        "calories": "30",
+        "fats": "1g",
+        "carbs": "5g",
+        "protein": "1g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Black Beans (vgn)",
+        "calories": "160",
+        "fats": "0.5g",
+        "carbs": "30g",
+        "protein": "10g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Brown Rice (vgn)",
+        "calories": "80",
+        "fats": "0.5g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Thai Chicken Curry Pizza",
+        "calories": "270",
+        "fats": "10g",
+        "carbs": "29g",
+        "protein": "15g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Mushroom Pizza on Wheat (v)",
+        "calories": "220",
+        "fats": "8g",
+        "carbs": "27g",
+        "protein": "9g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Pizza Bread (v)",
+        "calories": "160",
+        "fats": "3g",
+        "carbs": "27g",
+        "protein": "6g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Dinner",
+        "food": "Chocolate Chip Cake Kahlua (v)",
+        "calories": "360",
+        "fats": "20g",
+        "carbs": "45g",
+        "protein": "4g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Sliced Turkey",
+        "calories": "30",
+        "fats": "0.5g",
+        "carbs": "1g",
+        "protein": "6g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Sliced Turkey Pastrami",
+        "calories": "30",
+        "fats": "1.5g",
+        "carbs": "0g",
+        "protein": "4g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Sliced Swiss Cheese (v)",
+        "calories": "80",
+        "fats": "6g",
+        "carbs": "< 1g",
+        "protein": "7g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Sliced Cheddar Cheese (v)",
+        "calories": "90",
+        "fats": "7g",
+        "carbs": "0g",
+        "protein": "5g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Pesto Zucchini Soup (v)",
+        "calories": "100",
+        "fats": "10g",
+        "carbs": "2g",
+        "protein": "1g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Meatball Sandwich",
+        "calories": "280",
+        "fats": "12g",
+        "carbs": "29g",
+        "protein": "13g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Fresh Mushroom Quiche (v)",
+        "calories": "340",
+        "fats": "24g",
+        "carbs": "16g",
+        "protein": "14g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Fresh Cauliflower (vgn)",
+        "calories": "25",
+        "fats": "0.5g",
+        "carbs": "5g",
+        "protein": "2g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Long Grain Rice (vgn)",
+        "calories": "80",
+        "fats": "0g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Caesar Salad",
+        "calories": "100",
+        "fats": "9g",
+        "carbs": "5g",
+        "protein": "2g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Oatmeal (vgn)",
+        "calories": "90",
+        "fats": "2g",
+        "carbs": "16g",
+        "protein": "3g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Chilaquiles (No Egg) (v)",
+        "calories": "150",
+        "fats": "8g",
+        "carbs": "17g",
+        "protein": "4g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Sausage Patty",
+        "calories": "170",
+        "fats": "16g",
+        "carbs": "0g",
+        "protein": "7g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Hash Browns (vgn)",
+        "calories": "310",
+        "fats": "16g",
+        "carbs": "39g",
+        "protein": "3g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Cage Free Eggs Scrambled (v)",
+        "calories": "200",
+        "fats": "14g",
+        "carbs": "0g",
+        "protein": "15g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Cage Free Scrambled Egg Whites (v)",
+        "calories": "50",
+        "fats": "0g",
+        "carbs": "< 1g",
+        "protein": "12g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Pinto Beans (vgn)",
+        "calories": "210",
+        "fats": "1g",
+        "carbs": "38g",
+        "protein": "13g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Make Your Own Waffle (v)",
+        "calories": "250",
+        "fats": "3.5g",
+        "carbs": "48g",
+        "protein": "5g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Banana Nut Bread (w/nuts) (v)",
+        "calories": "300",
+        "fats": "12g",
+        "carbs": "43g",
+        "protein": "4g"
+    },
+    {
+        "date": "Saturday, September 27, 2025",
+        "meal": "Brunch",
+        "food": "Lemon Scone (vgn)",
+        "calories": "260",
+        "fats": "13g",
+        "carbs": "32g",
+        "protein": "3g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Sticky Rice (vgn)",
+        "calories": "70",
+        "fats": "0g",
+        "carbs": "15g",
+        "protein": "1g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Mongolian Beef",
+        "calories": "140",
+        "fats": "3.5g",
+        "carbs": "10g",
+        "protein": "15g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Tofu Vegetable Stir Fry (vgn)",
+        "calories": "80",
+        "fats": "2g",
+        "carbs": "12g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Spicy Stir Fry Sauce (vgn)",
+        "calories": "35",
+        "fats": "0g",
+        "carbs": "8g",
+        "protein": "< 1g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Spaghetti Soup (vgn)",
+        "calories": "50",
+        "fats": "0.5g",
+        "carbs": "9g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Turkey Meatloaf",
+        "calories": "140",
+        "fats": "9g",
+        "carbs": "7g",
+        "protein": "11g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Stir Fry Vegetables (vgn)",
+        "calories": "50",
+        "fats": "1g",
+        "carbs": "9g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Peas (vgn)",
+        "calories": "80",
+        "fats": "NA",
+        "carbs": "14g",
+        "protein": "6g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Potato Garlic Mashed (v)",
+        "calories": "160",
+        "fats": "6g",
+        "carbs": "23g",
+        "protein": "3g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Caesar Salad",
+        "calories": "100",
+        "fats": "9g",
+        "carbs": "5g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Gnocchi Mushroom Corn & Sage Butter (v)",
+        "calories": "190",
+        "fats": "5g",
+        "carbs": "33g",
+        "protein": "4g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Baked Rigatoni (v)",
+        "calories": "200",
+        "fats": "4g",
+        "carbs": "30g",
+        "protein": "9g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Pinto Beans (vgn)",
+        "calories": "210",
+        "fats": "1g",
+        "carbs": "38g",
+        "protein": "13g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Long Grain Rice (vgn)",
+        "calories": "80",
+        "fats": "0g",
+        "carbs": "17g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Assorted Meat Pizza",
+        "calories": "290",
+        "fats": "12g",
+        "carbs": "29g",
+        "protein": "14g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Cheese Pizza on White (v)",
+        "calories": "230",
+        "fats": "7g",
+        "carbs": "28g",
+        "protein": "10g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Tomato Pesto Pizza on Wheat (v)",
+        "calories": "300",
+        "fats": "19g",
+        "carbs": "25g",
+        "protein": "10g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Rosemary Asiago Sourdough Bread (v)",
+        "calories": "160",
+        "fats": "3g",
+        "carbs": "26g",
+        "protein": "7g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Dinner",
+        "food": "Cookies 'n Cream Cake (v)",
+        "calories": "210",
+        "fats": "13g",
+        "carbs": "22g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Sliced Ham",
+        "calories": "35",
+        "fats": "1g",
+        "carbs": "1g",
+        "protein": "5g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Sliced Genoa Salami",
+        "calories": "30",
+        "fats": "2g",
+        "carbs": "0g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Sliced Cheddar Cheese (v)",
+        "calories": "90",
+        "fats": "7g",
+        "carbs": "0g",
+        "protein": "5g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Sliced Provolone Cheese (v)",
+        "calories": "50",
+        "fats": "4g",
+        "carbs": "0g",
+        "protein": "4g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Cabbage Soup (vgn)",
+        "calories": "100",
+        "fats": "4g",
+        "carbs": "12g",
+        "protein": "4g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Carnitas Taco",
+        "calories": "540",
+        "fats": "46g",
+        "carbs": "14g",
+        "protein": "20g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Vegetable Tostada (v)",
+        "calories": "240",
+        "fats": "12g",
+        "carbs": "23g",
+        "protein": "12g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Fresh Broccoli Spears (vgn)",
+        "calories": "50",
+        "fats": "0.5g",
+        "carbs": "10g",
+        "protein": "3g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Mexican Rice (vgn)",
+        "calories": "130",
+        "fats": "4g",
+        "carbs": "22g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Baked Potato (vgn)",
+        "calories": "160",
+        "fats": "0g",
+        "carbs": "37g",
+        "protein": "3g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Baked Sweet Potato (vgn)",
+        "calories": "100",
+        "fats": "1g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Wild and Long Grain Rice Blend (vgn)",
+        "calories": "90",
+        "fats": "0g",
+        "carbs": "20g",
+        "protein": "3g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Caesar Salad",
+        "calories": "100",
+        "fats": "9g",
+        "carbs": "5g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Oatmeal (vgn)",
+        "calories": "90",
+        "fats": "2g",
+        "carbs": "16g",
+        "protein": "3g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Peach Chunk Pancake (v)",
+        "calories": "100",
+        "fats": "3.5g",
+        "carbs": "13g",
+        "protein": "3g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Bacon",
+        "calories": "120",
+        "fats": "9g",
+        "carbs": "0g",
+        "protein": "8g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Diced Potatoes (vgn)",
+        "calories": "120",
+        "fats": "2g",
+        "carbs": "23g",
+        "protein": "2g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Cage Free Eggs Scrambled (v)",
+        "calories": "200",
+        "fats": "14g",
+        "carbs": "0g",
+        "protein": "15g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Cage Free Scrambled Egg Whites (v)",
+        "calories": "50",
+        "fats": "0g",
+        "carbs": "< 1g",
+        "protein": "12g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "White Navy Beans (vgn)",
+        "calories": "110",
+        "fats": "0g",
+        "carbs": "21g",
+        "protein": "7g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Make Your Own Waffle (v)",
+        "calories": "250",
+        "fats": "3.5g",
+        "carbs": "48g",
+        "protein": "5g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Double Chocolate Bread (v)",
+        "calories": "300",
+        "fats": "15g",
+        "carbs": "42g",
+        "protein": "4g"
+    },
+    {
+        "date": "Sunday, September 28, 2025",
+        "meal": "Brunch",
+        "food": "Maple Pecan Scone (w/nuts) (v)",
+        "calories": "400",
+        "fats": "22g",
+        "carbs": "47g",
+        "protein": "4g"
+    }
+]
